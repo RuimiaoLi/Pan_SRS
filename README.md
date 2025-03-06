@@ -50,11 +50,11 @@ After the initial screening, candidate sequences are extracted and aligned using
 ## Requirements
 
 Ensure the following tools are installed and accessible in your system's PATH:
-- **BLASTP** (from the NCBI BLAST+ suite)
-- **HMMER** (includes `hmmscan`, `hmmsearch`, `hmmbuild`)
-- **MAFFT** (multiple sequence alignment tool)
-- **Seqkit** (FASTA/Q file processing tool)
-- **FastTree** (phylogenetic tree construction tool)
+- **blast+** (from the NCBI BLAST+ suite)
+- **hmmer** (includes `hmmscan`, `hmmsearch`, `hmmbuild`)
+- **mafft** (multiple sequence alignment tool)
+- **seqkit** (FASTA/Q file processing tool)
+- **fasttree** (phylogenetic tree construction tool)
 
 Additionally, prepare the following files:
 - **Protein Database File**: e.g., `Pan110_xiaomi.fa`
