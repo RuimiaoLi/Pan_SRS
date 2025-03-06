@@ -71,3 +71,20 @@ Run the script from the command line using:
 
 ```bash
 bash genefamily_analysis.sh <gene_family_folder_name> <gene_family_fasta_file> [BLASTP_identity_threshold]
+```
+
+## Troubleshooting
+
+- **Environment Dependencies**: Ensure all required tools (BLASTP, HMMER, MAFFT, Seqkit, FastTree) are installed and accessible in your system’s PATH.
+- **Path Settings**: Verify that the paths for `PROTEIN_DB` and `BLASTP_DB` are correctly set and match your local environment.
+- **HMM Files**: Ensure that all HMM model files are located in the same directory as the script.
+- **Sample ID File**: Confirm that the sample ID file (e.g., `110SampleID.txt`) exists and is properly formatted.
+
+## Contact Information
+
+- **Author**: Ruimiao Li  
+- **Email**: jiekexiaobai99@gmail.com or 1205630141@qq.com  
+- **Version**: V1.3 (2024-11-19)
+
+For any issues, questions, or further assistance, please contact the author via the provided email address.
+
