@@ -10,15 +10,15 @@ This pipeline provides a comprehensive approach for Pan-genome based gene family
 - [Features](#features)
 - [Requirements](#requirements)
 - [Usage](#usage)
-- [Pipeline Workflow]
-  - [Parameter and Path Configuration]
-  - [BLASTP Screening Module]
-  - [HMM Screening Module]
-  - [Sequence Extraction & HMM Rebuilding]
-  - [Intersection of Candidate Genes]
-  - [File Organization & Data Archiving]
-  - [Optional Phylogenetic Tree Construction]
-  - [Pan-genome Member Statistics]
+- Pipeline Workflow
+  - Parameter and Path Configuration
+  - BLASTP Screening Module
+  - HMM Screening Module
+  - Sequence Extraction & HMM Rebuilding
+  - Intersection of Candidate Genes
+  - File Organization & Data Archiving
+  - Optional Phylogenetic Tree Construction
+  - Pan-genome Member Statistics
 - [Troubleshooting](#troubleshooting)
 - [Contact Information](#contact-information)
 
