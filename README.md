@@ -1,4 +1,4 @@
-#Pan-genome based Gene Family Analysis Pipeline
+# Pan-genome based Gene Family Analysis Pipeline
 
 This pipeline provides a comprehensive approach for Pan-genome based gene family analysis by integrating BLASTP and HMM methods for screening candidate gene sequences. An optional feature allows users to construct a phylogenetic tree automatically. This README details the pipeline workflow, requirements, and usage instructions.
 
