@@ -10,8 +10,8 @@ This pipeline provides a comprehensive approach for Pan-genome based gene family
 - [Features](#features)
 - [Requirements](#requirements)
 - [Usage](#usage)
-- [Pipeline Workflow](#pipeline-workflow)
-  [Parameter and Path Configuration]
+- [Pipeline Workflow]
+  - [Parameter and Path Configuration]
   - [BLASTP Screening Module]
   - [HMM Screening Module]
   - [Sequence Extraction & HMM Rebuilding]
