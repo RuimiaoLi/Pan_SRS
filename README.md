@@ -1,6 +1,6 @@
 # Gene Family Analysis Pipeline
 
-This pipeline provides a comprehensive approach for gene family analysis by integrating BLASTP and HMM methods for screening candidate gene sequences. An optional feature allows users to construct a phylogenetic tree automatically. This README details the pipeline workflow, requirements, and usage instructions.
+This pipeline provides a comprehensive approach for Pan-genome based gene family analysis by integrating BLASTP and HMM methods for screening candidate gene sequences. An optional feature allows users to construct a phylogenetic tree automatically. This README details the pipeline workflow, requirements, and usage instructions.
 
 ---
 
@@ -11,14 +11,14 @@ This pipeline provides a comprehensive approach for gene family analysis by inte
 - [Requirements](#requirements)
 - [Usage](#usage)
 - [Pipeline Workflow](#pipeline-workflow)
-  - [Parameter and Path Configuration](#parameter-and-path-configuration)
-  - [BLASTP Screening Module](#blastp-screening-module)
-  - [HMM Screening Module](#hmm-screening-module)
-  - [Sequence Extraction & HMM Rebuilding](#sequence-extraction--hmm-rebuilding)
-  - [Intersection of Candidate Genes](#intersection-of-candidate-genes)
-  - [File Organization & Data Archiving](#file-organization--data-archiving)
-  - [Optional Phylogenetic Tree Construction](#optional-phylogenetic-tree-construction)
-  - [Pan-genome Member Statistics](#pan-genome-member-statistics)
+  [Parameter and Path Configuration]
+  - [BLASTP Screening Module]
+  - [HMM Screening Module]
+  - [Sequence Extraction & HMM Rebuilding]
+  - [Intersection of Candidate Genes]
+  - [File Organization & Data Archiving]
+  - [Optional Phylogenetic Tree Construction]
+  - [Pan-genome Member Statistics]
 - [Troubleshooting](#troubleshooting)
 - [Contact Information](#contact-information)
 
