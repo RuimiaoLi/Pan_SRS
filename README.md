@@ -18,7 +18,7 @@ This pipeline provides a comprehensive approach for Pan-genome based gene family
   - Intersection of Candidate Genes
   - File Organization & Data Archiving
   - Optional Phylogenetic Tree Construction
-  - Pan-genome Member Statistics
+  - Pan-genome Member Statistics (Optional)
 - [Troubleshooting](#troubleshooting)
 - [Contact Information](#contact-information)
 
@@ -105,7 +105,8 @@ Path Settings: Verify that the paths for PROTEIN_DB and BLASTP_DB are correctly 
 
 HMM Files: Ensure that all HMM model files are located in the same directory as the script.
 
-Sample ID File: Confirm that the sample ID file (e.g., 110SampleID.txt) exists and is properly formatted.
+Please Note: 
+Sample ID File: if you wanna use genefamily Analysis Code for Pan-Genome, Please Confirm that the sample ID file (e.g., 110SampleID.txt) exists and is properly formatted.
 
 Contact Information
 Author: Ruimiao Li
